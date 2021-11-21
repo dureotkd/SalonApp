@@ -1,0 +1,1 @@
+{"ast":null,"code":"import StarRating from \"./StarRating\";\nexport default StarRating;","map":{"version":3,"sources":["index.ts"],"names":[],"mappings":"AAAA,OAAA,UAAA;AAEA,eAAA,UAAA","sourcesContent":["import StarRating from \"./StarRating\";\n\nexport default StarRating;\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "webpackServerPort": 19006,
+  "expoServerNgrokUrl": "https://63-bmq.sungminshin.client.exp.direct",
+  "packagerNgrokUrl": "https://packager.63-bmq.sungminshin.client.exp.direct",
+  "ngrokPid": 9812
+}

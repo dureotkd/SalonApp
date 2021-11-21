@@ -1,0 +1,1 @@
+{"ast":null,"code":"var baseUrl = \"http://192.168.219.101:4010\";\nexport default baseUrl;","map":{"version":3,"sources":["C:/RN/client/components/Port.js"],"names":["baseUrl"],"mappings":"AAAA,IAAMA,OAAO,GAAG,6BAAhB;AACA,eAAeA,OAAf","sourcesContent":["const baseUrl = \"http://192.168.219.101:4010\";\r\nexport default baseUrl;\r\n"]},"metadata":{},"sourceType":"module"}
